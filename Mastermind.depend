@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1353247934 source:c:\users\naomi\documents\isn\tp graphics\mastermind\exemple.c.c
+	"graphics.h"
+
+1369476074 c:\users\naomi\documents\isn\tp graphics\mastermind\graphics.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/time.h>
+	<sys/types.h>
+	<unistd.h>
+	<time.h>
+	<math.h>
+	"couleur.h"
+
+1316102856 c:\users\naomi\documents\isn\tp graphics\mastermind\couleur.h
+
